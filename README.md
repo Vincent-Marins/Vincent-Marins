@@ -7,7 +7,7 @@
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
   <h4> 1. My name is <font color = #d58cff>Vincent Marins</font> 👋</h4>
-  <h4> 1. Web developer, programmer 👾</h4>
+  <h4> 2. Web developer, programmer 👾</h4>
   <h4> 3. Experience in WebDev of 2 months ⭐️</h4>
   <h4> 4. I would be glad to hear tips from experienced programmers ✊</h4>
   <h4> 5. My skill development is in full swing 😼 </h4>
