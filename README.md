@@ -1,14 +1,17 @@
 <h1 align="center">AILRUX</h1>
 
-<img align="center" src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif" >
+<div align="center"><img src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif">
 
-<h2> About me </h2>
-<h3> 1. My name is Vincent Marins </h3>
-<h3> 1. Web developer, programmer </h3>
-<h3> 3. Experience in WebDev of 2 months </h3>
-<h3> 4. I would be glad to hear tips from experienced programmers </h3>
-<h3> 5. My skill development is in full swing </h3>
-
+ <div align="left">
+  <h2 align="center"> About me </h2>
+  <hr>
+  <h3> 1. My name is Vincent Marins </h3>
+  <h3> 1. Web developer, programmer </h3>
+  <h3> 3. Experience in WebDev of 2 months </h3>
+  <h3> 4. I would be glad to hear tips from experienced programmers </h3>
+  <h3> 5. My skill development is in full swing </h3>
+  </div>
+</div>
 
 <hr>
 
