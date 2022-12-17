@@ -1,6 +1,6 @@
 <h1 align="center">AILRUX</h1>
 
-<img src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif" >
+<img align="center" src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif" >
 
 <h2> About me </h2>
 <h3> 1. My name is Vincent Marins </h3>
@@ -16,7 +16,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134671-ef8daec4-a9e2-437e-aed9-e30d50a6faec.png" alt="JAVA script" width="40" height="40">
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134748-e5f23658-4c50-459a-8f79-71dc66734d11.png" 
 alt="Python" width="40" height="40">
-<img align="right" src="https://user-images.githubusercontent.com/120786298/208243509-f0af964b-a100-45eb-b6b2-9d6c8038e5e9.png)" 
+<img align="right" src="https://user-images.githubusercontent.com/120786298/208244448-4e963b7b-9b86-496e-90e4-9ad491041fff.png)" 
 alt="CSS" width="40" height="40">
 <div align="right"><img src="https://user-images.githubusercontent.com/116753493/199134956-b94eb079-e4e3-4de3-ace2-c65678dd5fce.png" 
 alt="HTML" width="40" height="40"></div>
