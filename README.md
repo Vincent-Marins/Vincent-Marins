@@ -15,8 +15,9 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools</h3>
- <div align="center"><img  src="https://user-images.githubusercontent.com/116753493/199135333-ce157746-970f-4529-9e92-971f91c4466d.png" alt="Windows" width="40" height="40">
+<div align="right">
+ <h3>Languages and Tools</h3>
+ <img  src="https://user-images.githubusercontent.com/116753493/199135333-ce157746-970f-4529-9e92-971f91c4466d.png" alt="Windows" width="40" height="40">
  <img   width="40" height="40" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio">
  <img  src="https://user-images.githubusercontent.com/116753493/199135403-cdd6d5fa-7b97-42a9-943b-4b9ace0741a5.png" alt="Terminal" width="40" height="40">
  <img  src="https://user-images.githubusercontent.com/116753493/199135177-0e5a4379-b903-40b7-b663-1c67a849aba7.png" alt="Linux" width="40" height="40">
@@ -26,9 +27,7 @@
  alt="Python" width="40" height="40">
  <img  src="https://user-images.githubusercontent.com/120786298/208244511-358d6820-66a6-4758-be60-ae283f9c7a18.png" alt="CSS" width="40" height="40">
  <img  src="https://user-images.githubusercontent.com/116753493/199134956-b94eb079-e4e3-4de3-ace2-c65678dd5fce.png" 
- alt="HTML" width="40" height="40"></div>
+ alt="HTML" width="40" height="40">
+</div>
 
 <hr>
-
-
-
