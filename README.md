@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2 align="center">Languages and Instruments</h2>
+<h3 align="center">Languages and Instruments</h3>
  <div align="center"><img  src="https://user-images.githubusercontent.com/116753493/199135333-ce157746-970f-4529-9e92-971f91c4466d.png" alt="Windows" width="40" height="40">
  <img   width="40" height="40" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio">
  <img  src="https://user-images.githubusercontent.com/116753493/199135403-cdd6d5fa-7b97-42a9-943b-4b9ace0741a5.png" alt="Terminal" width="40" height="40">
@@ -25,3 +25,6 @@
  alt="HTML" width="40" height="40"></div>
 
 <hr>
+
+
+
