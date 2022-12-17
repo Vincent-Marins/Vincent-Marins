@@ -3,13 +3,13 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif">
 
  <div align="left">
-  <h2 align="center"> About me </h2>
+  <h3 align="center"> About me </h3>
   <hr>
-  <h3> 1. My name is Vincent Marins </h3>
-  <h3> 1. Web developer, programmer </h3>
-  <h3> 3. Experience in WebDev of 2 months </h3>
-  <h3> 4. I would be glad to hear tips from experienced programmers </h3>
-  <h3> 5. My skill development is in full swing </h3>
+  <h4> 1. My name is Vincent Marins </h4>
+  <h4> 1. Web developer, programmer </h4>
+  <h4> 3. Experience in WebDev of 2 months </h4>
+  <h4> 4. I would be glad to hear tips from experienced programmers </h4>
+  <h4> 5. My skill development is in full swing </h4>
   </div>
 </div>
 
@@ -29,3 +29,6 @@
  alt="HTML" width="40" height="40"></div>
 
 <hr>
+
+
+
