@@ -1,7 +1,7 @@
 <font face = "Play">
  <font color = #d58cff size = 6><h3 align="center">AILRUX</h3></color></font>
 
- <div align="center"><img src="https://user-images.githubusercontent.com/120786298/208243779-29a75226-b6ba-478b-b55b-90a27b4148db.gif">
+ <div align="center"><img src="https://user-images.githubusercontent.com/120786298/208247478-d8f4b1c5-d929-4da4-b142-850322c4ef4c.gif">
 
   <div align="left">
   <font size = 4><h3 align="center"> About me </h3></font>
@@ -33,4 +33,5 @@
   <hr>
   
 </font>
+
 
