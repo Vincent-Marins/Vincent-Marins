@@ -13,26 +13,29 @@
   <h4> 5. My skill development is in full swing 😼 </h4>
   </div>
 
-<hr>
+  <hr>
 
  <div align="right">
   <font size = 3><h3>🧰Languages and Tools</h3></font>
-  <img  src="https://user-images.githubusercontent.com/116753493/199134671-ef8daec4-a9e2-437e-aed9-e30d50a6faec.png" alt="JAVA script" width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/116753493/199134748-e5f23658-4c50-459a-8f79-71dc66734d11.png" 
-  alt="Python" width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/120786298/208244511-358d6820-66a6-4758-be60-ae283f9c7a18.png" alt="CSS" width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/116753493/199134956-b94eb079-e4e3-4de3-ace2-c65678dd5fce.png" 
+  <img  src="https://user-images.githubusercontent.com/120786298/208248203-729a2254-ecc6-4e65-afeb-1a59c4519cc6.png" 
   alt="HTML" width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248247-86f838ae-3c42-42a1-bf9f-fafaba18e8b5.png" alt="CSS"           width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248288-840b8aec-c6e9-4032-a5e4-448e2cc58f67.png" alt="JAVA script"   width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248300-90c65a63-3781-4385-a599-1b3dce5383b8.png" 
+  alt="Python" width="40" height="40">
   <br>
-  <img  src="https://user-images.githubusercontent.com/116753493/199135333-ce157746-970f-4529-9e92-971f91c4466d.png" alt="Windows" width="40" height="40">
-  <img   width="40" height="40" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio">
-  <img  src="https://user-images.githubusercontent.com/116753493/199135403-cdd6d5fa-7b97-42a9-943b-4b9ace0741a5.png" alt="Terminal" width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/116753493/199135177-0e5a4379-b903-40b7-b663-1c67a849aba7.png" alt="Linux" width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248152-2c4c17d9-7a6a-464b-a674-d54680f7f662.png" alt="Windows"       width="40" height="40">
+  <img   width="40" height="40" 
+       src="https://user-images.githubusercontent.com/120786298/208248127-a6dac990-c105-47b5-959f-9d9e70066552.png" 
+       alt="Visual Studio">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/208248086-aed25a4c-b4d2-441b-b973-e3a107e304d3.png" alt="Figma"         width="40" height="40">
   
  </div>
 
   <hr>
-  
+
 </font>
+
 
 
