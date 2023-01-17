@@ -16,7 +16,7 @@
   <hr>
 
  <div align="right">
-  <font size = 3><h3>🧰Languages and Tools</h3></font>
+  <font size = 3><h3>Languages and Tools</h3></font>
   <img  src="https://user-images.githubusercontent.com/120786298/208248203-729a2254-ecc6-4e65-afeb-1a59c4519cc6.png" 
   alt="HTML" width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248247-86f838ae-3c42-42a1-bf9f-fafaba18e8b5.png" alt="CSS"           width="40" height="40">
