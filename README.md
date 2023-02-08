@@ -23,6 +23,7 @@
   <img  src="https://user-images.githubusercontent.com/120786298/208248288-840b8aec-c6e9-4032-a5e4-448e2cc58f67.png" alt="JAVA script"   width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248300-90c65a63-3781-4385-a599-1b3dce5383b8.png" 
   alt="Python" width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/217633252-162c2f13-a678-4e61-a410-d300467375b4.png" alt="React"         width="40" height="40">
   <br>
   <img  src="https://user-images.githubusercontent.com/120786298/208248152-2c4c17d9-7a6a-464b-a674-d54680f7f662.png" alt="Windows"       width="40" height="40">
   <img   width="40" height="40" 
@@ -30,7 +31,8 @@
        alt="Visual Studio">
   <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248086-aed25a4c-b4d2-441b-b973-e3a107e304d3.png" alt="Figma"         width="40" height="40">
-  
+  <img  src="https://user-images.githubusercontent.com/120786298/217633282-01e2d312-0452-4e83-b010-f4a56739c40e.png" alt="Vue"         width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/217633252-162c2f13-a678-4e61-a410-d300467375b4.png" alt="React"         width="40" height="40">
  </div>
 
   <hr>
