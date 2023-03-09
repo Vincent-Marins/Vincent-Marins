@@ -31,13 +31,11 @@
        alt="Visual Studio">
   <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248086-aed25a4c-b4d2-441b-b973-e3a107e304d3.png" alt="Figma"         width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/120786298/217633282-01e2d312-0452-4e83-b010-f4a56739c40e.png" alt="Vue"         width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/224068047-866e829e-ee59-4250-8ce7-635eddd73195.png" alt="TypeScript"         width="40" height="40">
  </div>
 
   <hr>
 
 </font>
-
-
 
 
