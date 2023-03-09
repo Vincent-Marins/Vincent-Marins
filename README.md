@@ -7,8 +7,8 @@
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
   <h4> 1. My name is <font color = #d58cff>Vincent</font> 👋</h4>
-  <h4> 2. Web developer, programmer 👾</h4>
-  <h4> 3. Experience in WebDev of 3 months ⭐️</h4>
+  <h4> 2. I am a fronted(React) developer 👾</h4>
+  <h4> 3. Experience with Web development 5 months ⭐️</h4>
   <h4> 4. I would be glad to hear tips from experienced programmers ✊</h4>
   <h4> 5. My skill development is in full swing 😼 </h4>
   </div>
@@ -31,7 +31,7 @@
        alt="Visual Studio">
   <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248086-aed25a4c-b4d2-441b-b973-e3a107e304d3.png" alt="Figma"         width="40" height="40">
-  <img border-radius='20px' src="https://user-images.githubusercontent.com/120786298/224068047-866e829e-ee59-4250-8ce7-635eddd73195.png" alt="TypeScript"         width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/224068047-866e829e-ee59-4250-8ce7-635eddd73195.png" alt="TypeScript"         width="40" height="40">
  </div>
 
   <hr>
