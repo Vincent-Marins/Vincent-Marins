@@ -25,9 +25,6 @@
   alt="Python" width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/217633252-162c2f13-a678-4e61-a410-d300467375b4.png" alt="React"         width="40" height="40">
   <br>
-  <img   width="40" height="40" 
-       src="https://user-images.githubusercontent.com/120786298/208248127-a6dac990-c105-47b5-959f-9d9e70066552.png" 
-       alt="Visual Studio">
   <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/224068047-866e829e-ee59-4250-8ce7-635eddd73195.png" alt="TypeScript"         width="40" height="40">
  </div>
