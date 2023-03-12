@@ -18,9 +18,9 @@
  <div align="right">
   <font size = 3><h3>Languages and Tools</h3></font>
 
-  alt="HTML" width="40" height="40">
+
   <img  src="https://user-images.githubusercontent.com/120786298/208248247-86f838ae-3c42-42a1-bf9f-fafaba18e8b5.png" alt="CSS"           width="40" height="40">
-  <img  src="https://user-images.githubusercontent.com/120786298/208248203-729a2254-ecc6-4e65-afeb-1a59c4519cc6.png" 
+  <img  src="https://user-images.githubusercontent.com/120786298/208248203-729a2254-ecc6-4e65-afeb-1a59c4519cc6.png" alt="HTML" width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248288-840b8aec-c6e9-4032-a5e4-448e2cc58f67.png" alt="JAVA script"   width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/217633252-162c2f13-a678-4e61-a410-d300467375b4.png" alt="React"         width="40" height="40">
   <br>
